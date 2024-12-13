@@ -6,3 +6,5 @@ _Write book intro here. This is the first page the student will see when opening
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
 
 Aanpassing 2
+
+Aanpassing 2 is niet goed
